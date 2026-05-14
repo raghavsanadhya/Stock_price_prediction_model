@@ -1,0 +1,20 @@
+# Virtual Environments
+venv/
+.env/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Files (Common in ML projects)
+*.csv
+*.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
